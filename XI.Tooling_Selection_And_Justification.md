@@ -64,9 +64,3 @@ These tools focus on user insights and enhancing the user experience.
   - **Purpose:** User behavior analysis tool for tracking interactions and optimizing user experience.  
   - **Justification:** Provides insights into user behavior, helping to refine and improve the platform based on real data.  
   - **Integration:** Embedded in the frontend (React) to capture data on user engagement and flow, supporting data-driven improvements.  
-
-- **Optical Sensors and Digital Cameras (for AR)**  
-  - **Purpose:** Used in augmented reality features to provide interactive, visual experiences of vehicles.  
-  - **Justification:** Enhances user experience by allowing virtual car previews, adding value to the buying process.  
-  - **Integration:** Captures data that can be processed and displayed in the React frontend for immersive AR functionality.  
-
