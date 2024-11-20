@@ -11,15 +11,12 @@
    - **Description:** Provide users with the ability to view and interact with 3D models of cars, including exploring interiors and color options.  
 
 3. **Personalized Recommendations**  
-   - **Description:** Use the Intelligent Lifestyle Visualizer to recommend cars based on user preferences (e.g., family size, hobbies).  
-
-4. **Secure User Authentication**  
-   - **Description:** Ensure a secure login/signup process for buyers, sellers, and dealers.  
-
-5. **Vehicle Listing Management**  
+   - **Description:** Use the Intelligent Lifestyle Visualizer to recommend cars based on user preferences (e.g., family size, hobbies).
+  
+4. **Vehicle Listing Management**  
    - **Description:** Allow sellers to easily create, update, and manage their vehicle listings.  
 
-6. **Vehicle History Information**  
+5. **Vehicle History Information**  
    - **Description:** Display comprehensive vehicle history reports for buyers to review.  
 
 ---
